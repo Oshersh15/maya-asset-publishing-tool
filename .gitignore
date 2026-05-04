@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.venv/
+venv/
+published_assets/
+*.ma
+*.mb
+*.usd
+*.usda
+*.usdc
+*.obj
