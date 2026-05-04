@@ -29,3 +29,11 @@ A Python-based pipeline tool for Autodesk Maya that validates, fixes, and publis
 - PySide
 - USD export
 - JSON metadata
+
+## Demo
+
+https://github.com/user-attachments/assets/6f3220a0-0bfc-427a-aa46-8903b8ac661d
+
+
+
+
